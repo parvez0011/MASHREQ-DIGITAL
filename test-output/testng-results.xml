@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[browser name : chrome]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 13s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User click on Contact us link]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : Contact Us form is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify user reached to Contact Us Page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User click on submit button]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User click on Submit button of contact us form (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Error message is displayed for I am looking in to field]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Error is displayed for I am looking to text box (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Asssertion Pass] : Total choices in dropdown are : 4]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User Verify I am looking to… field is a dropdown with &#x27;4&#x27; choices (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User click on Contact us link]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Default value of select sub product is -- Select Sub Product -- ]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User verify The &#x27;-- Select Sub Product -- &#x27; field is initially empty (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : User selected value : Loans from product dropdown]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User Select the &#x27;Loans&#x27; from Product dropdown (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Asssertion Fail] : Total choices in dropdown are : 6]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Option : Home Loan UAE Resident is displayed in select sub product dropdown]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User Verify Select Sub products have &#x27;6&#x27; options including &#x27;Home Loan UAE Resident&#x27; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User click on Contact us link]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User Enter the Mobile Number : 95408]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User enter the mobile number &#x27;95408&#x27; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Error message is displayed for mobile number with digit less that 7]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User Verify Error is displayed when user enter less than 7 digit in mobile number (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User Enter the Mobile Number : 9540883]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User enter the mobile number &#x27;9540883&#x27; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Error message is not displayed for mobile number with 7 digits]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User Verify No Error is displayed when user enter 7 digit number (PASSED : 5s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : Best Consumer Digital Bank UAE | Personal Banking | Mashreq Bank]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Validate the page title is &#x27;Best Consumer Digital Bank UAE | Personal Banking | Mashreq Bank&#x27; (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Navigation bar is displayed to user (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item count is : 9]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Corporate] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Business] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [International] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Private Banking] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Al Islami] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Gold] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Securities] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Capital] found]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Global Services] found]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify &#x27;9&#x27; items displayed at navigation bar (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Masherqbank news box is displayed on home page]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User verify News box should be visible on home page (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Masherqbank New title is displayed on homepage]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User verify the title of News box should be &#x27;Mashreq News&#x27; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Assertion Pass] : Masherqbank Contact Us is not displayed at footer of homepage]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User verify &#x27;Contact Us&#x27; is visible at homepage (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : User click on Contact us link]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[[Info] : Contact Us form is displayed]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify user reached to Contact Us Page (PASSED : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68564" started-at="2019-05-31T18:14:31Z" finished-at="2019-05-31T18:15:39Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="68564" started-at="2019-05-31T18:14:31Z" finished-at="2019-05-31T18:15:39Z">
+      <class name="com.masherqbank.runner.RunnerClass">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="setUpClass" is-config="true" duration-ms="542" started-at="2019-05-31T18:14:31Z" finished-at="2019-05-31T18:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="intiateSession()[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="intiateSession" is-config="true" duration-ms="9074" started-at="2019-05-31T18:14:31Z" finished-at="2019-05-31T18:14:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[browser name : chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- intiateSession -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="16249" started-at="2019-05-31T18:14:41Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:14:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Submitting the form without entering any details should indicate an error and specify which fields are required"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ContactUs"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 13s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User click on Contact us link]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : Contact Us form is displayed]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify user reached to Contact Us Page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User click on submit button]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User click on Submit button of contact us form (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Error message is displayed for I am looking in to field]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Error is displayed for I am looking to text box (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Asssertion Pass] : Total choices in dropdown are : 4]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User Verify I am looking to… field is a dropdown with &#x27;4&#x27; choices (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="7966" started-at="2019-05-31T18:14:57Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:15:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Select sub products options"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ContactUs"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User click on Contact us link]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Default value of select sub product is -- Select Sub Product -- ]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User verify The &#x27;-- Select Sub Product -- &#x27; field is initially empty (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : User selected value : Loans from product dropdown]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User Select the &#x27;Loans&#x27; from Product dropdown (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Asssertion Fail] : Total choices in dropdown are : 6]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Option : Home Loan UAE Resident is displayed in select sub product dropdown]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User Verify Select Sub products have &#x27;6&#x27; options including &#x27;Home Loan UAE Resident&#x27; (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="12604" started-at="2019-05-31T18:15:05Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:15:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Error for Mobile number with less than 7 didgit"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ContactUs"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User click on Contact us link]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User Enter the Mobile Number : 95408]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User enter the mobile number &#x27;95408&#x27; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Error message is displayed for mobile number with digit less that 7]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User Verify Error is displayed when user enter less than 7 digit in mobile number (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User Enter the Mobile Number : 9540883]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User enter the mobile number &#x27;9540883&#x27; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Error message is not displayed for mobile number with 7 digits]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User Verify No Error is displayed when user enter 7 digit number (PASSED : 5s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="7561" started-at="2019-05-31T18:15:18Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:15:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify the Navigation bar at desktop deivces"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Homepage"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : Best Consumer Digital Bank UAE | Personal Banking | Mashreq Bank]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Validate the page title is &#x27;Best Consumer Digital Bank UAE | Personal Banking | Mashreq Bank&#x27; (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar is displayed]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Navigation bar is displayed to user (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item count is : 9]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Corporate] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Business] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [International] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Private Banking] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Al Islami] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Gold] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Securities] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Capital] found]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Navigation bar item [Mashreq Global Services] found]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify &#x27;9&#x27; items displayed at navigation bar (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="5342" started-at="2019-05-31T18:15:25Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:15:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Mashreq News should be displayed on the homepage"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Homepage"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Masherqbank news box is displayed on home page]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User verify News box should be visible on home page (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Masherqbank New title is displayed on homepage]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User verify the title of News box should be &#x27;Mashreq News&#x27; (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="runScenario" duration-ms="8955" started-at="2019-05-31T18:15:30Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-31T18:15:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify “Contact Us” at the footer of homepage"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Homepage"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]: Product URL :::: https://www.mashreqbank.com/uae/en/personal/home]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User is on homepage of Masherqbank (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Assertion Pass] : Masherqbank Contact Us is not displayed at footer of homepage]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User verify &#x27;Contact Us&#x27; is visible at homepage (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : User click on Contact us link]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User click on Contact Us Page at footer (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Page title is : Contact us | Personal Banking | Mashreq Bank]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Validate the page title is &#x27;Contact us | Personal Banking | Mashreq Bank&#x27; (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[[Info] : Contact Us form is displayed]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify user reached to Contact Us Page (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="closeSession" is-config="true" duration-ms="1" started-at="2019-05-31T18:15:39Z" finished-at="2019-05-31T18:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.masherqbank.runner.RunnerClass@52f759d7]" name="tearDownClass" is-config="true" duration-ms="46" started-at="2019-05-31T18:15:39Z" finished-at="2019-05-31T18:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.masherqbank.runner.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
