@@ -1,8 +1,9 @@
 # AutomationBddFramework
 Author : Mohammad Parvez
-This Repo is for BDD automation framework using java , selenium and cucumber
-Summary:
 
+This Repo is for BDD automation framework using java , selenium and cucumber
+
+Summary:
 This Test Automation Framework serves the purpose of automating the test cases and getting the tests results. Please refer the below mentioned guidelines/prerequisites for the same.
 
 System Requirement:
@@ -13,7 +14,6 @@ System Requirement:
 -  Netbeans : Preferred for additional features like auto-code indentation, dependency error detection & many more.
 
 Test Execution:
-
 -  For Execution of tests Use RunnerClass in "MashreqbankFramework\src\main\java\com\masherqbank\runner"
 -  In tags option of runner class put the Tag of one or more feature file you want to execute
 -  USer Or for executing multiple feature all together
@@ -28,13 +28,14 @@ Guidelines for code review:
 -  Don't use system.out.print() to print the logs. use Reporter class methods
 -  Write JavaDoc for each method
 
-Result Files:
 
+Result Files:
 The Test Execution Results will be stored in the following directory once the test has completed
 
-Html Reports
 
+Html Reports
 .target\site\cucumber-pretty\index.html
+
 
 Cucumber Reports :
 -  Once Test execution got completed Please run "mvn install" and cucumber reports will be availble in 
